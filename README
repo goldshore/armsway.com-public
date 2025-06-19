@@ -1,0 +1,48 @@
+# armsway.com - Public Website (B2B Medical Sleeve)
+
+Your public-facing site is being designed as a sleek, trust-building medical sales portal focused on the ArmsWay™ patented blood pressure sleeve.
+
+## ✅ Site Features
+- Responsive HTML/CSS landing page
+- Clean B2B language for hospitals/clinics
+- Logo and color scheme applied
+- Inquiry/contact form placeholder (to connect with Flask backend)
+- Favicon and brand asset integration
+- GitHub Pages ready
+
+## 🧠 Instructions
+To serve this publicly:
+1. Push all contents to `goldshore/armsway.com`
+2. Verify custom domain `armsway.com` via GitHub Pages
+3. Enable HTTPS via Cloudflare
+
+## 🧪 Local Dev Setup
+Use Live Server or any static server to preview:
+
+```bash
+npm install -g live-server
+live-server
+```
+
+---
+
+### Directory Structure:
+```txt
+armsway.com/
+├── index.html          # Public landing page
+├── styles.css          # Styling (minimalist, sleek medical)
+├── logo.png            # ArmsWay logo
+├── favicon.ico         # Tab icon
+├── README.md           # This file
+└── .github/workflows   # Auto-deploy GitHub Actions
+```
+
+### Future Plans:
+- Integrate contact form into backend (secure Flask API)
+- Auto-pull USPTO data for patents
+- Embed testimonials or case study PDF
+- Add search tool for medical buyers
+- Compliance and Legal Policy section
+
+---
+Let me know when you're ready to generate the HTML/CSS files or deploy to GitHub Pages.
