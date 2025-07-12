@@ -42,9 +42,9 @@ Optional integration via:
 Set the following `A` or `CNAME` records:
 
 | Type | Name         | Value                              |
-|——|—————|————————————|
+|------|--------------|-------------------------------------|
 | A    | @            | `185.199.108.153` *(GitHub Pages)* |
-| CNAME| www          | `goldshore.github.io`              |
+| CNAME| www          | `armsway.com`                      |
 | TXT  | _github-pages| `https://armsway.com`              |
 
 —
@@ -82,7 +82,9 @@ Set the following `A` or `CNAME` records:
 MIT License — See `LICENSE`  
 © 2025 ArmsWay™  
 [info@armsway.com](mailto:info@armsway.com)  
-[7072 Hope Hill Rd, Brooksville, FL 34601](https://maps.google.com/?q=7072+Hope+Hill+Rd,+Brooksville,+FL) 🧪 Local Dev Setup
+[7072 Hope Hill Rd, Brooksville, FL 34601](https://maps.google.com/?q=7072+Hope+Hill+Rd,+Brooksville,+FL)
+
+🧪 Local Dev Setup
 Use Live Server or any static server to preview:
 
 > Backend is managed at [armsway.com-private](https://github.com/goldshore/armsway.com-private)
@@ -96,7 +98,3 @@ Use Live Server or any static server to preview:
 
 ---
 **Maintained by [Gold Shore Labs](https://goldshore.foundation)**
-
-
-
-
